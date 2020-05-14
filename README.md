@@ -1,6 +1,6 @@
 # R.I.S.K: Revolutionize Investment Strategies using KPIs
 
-<br>We intended on supporting the investors decision by analysing the companies’ Key Performance Indicators (KPIs) over the past few months. The KPIs are evaluation metrics for the company’s progress in form of statistics and strong numbers that give a clear idea about its growth trajectory. The KPIs that we selected were: <br>
+<br>I intended on supporting the investors decision by analysing the companies’ Key Performance Indicators (KPIs) over the past few months. The KPIs are evaluation metrics for the company’s progress in form of statistics and strong numbers that give a clear idea about its growth trajectory. The KPIs that we selected were: <br>
 <ul>
 <li>Market Sentiment Analysis
 <li>Stocks
